@@ -11,4 +11,4 @@ My part focuses on the topics of archives. Archival work is deemed as essential 
 
 AJ and I chose to first research the topics we found interesting and then combined them when preparing the presentation. Although our topics do not match perfectly, we found they collectively present the complexity behind big data and provoke interesting questions about the topics. 
 
-Google slides: https://docs.google.com/presentation/d/1Gbs8qmm8zhcv79IjlB05XKh30cuR0E1XLhkYTnqpHpo/edit?usp=sharing
+Google slides: https://docs.google.com/presentation/d/1Rd2UIPBqOw_EZ24JP6_lTLpzhazI6XfdznlkLryieHU/edit?usp=sharing
